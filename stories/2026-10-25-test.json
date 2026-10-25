@@ -1,0 +1,42 @@
+{
+  "date_label": "Sunday · 25 October 2026",
+  "question": "Which result surprised you?",
+  "stories": [
+    {
+      "type": "chase",
+      "teams": ["IND", "NZ"],
+      "runs": 181,
+      "wickets": 6,
+      "sub": "Target 181 · 19.5 overs",
+      "tag": "2ND T20I · NZ v INDIA",
+      "color": "blue",
+      "headline": ["India win by", "4 wickets!"],
+      "details": ["Tilak Varma 51* off 26 balls", "India lead series 2-0", "Santner 4/21 · Phillips 70 for NZ"]
+    },
+    {
+      "type": "collapse",
+      "teams": ["UGA", "MOZ"],
+      "runs": 19,
+      "tag": "T20 WORLD CUP QUALIFIER",
+      "color": "red",
+      "headline_size": 76,
+      "headline": ["Mozambique bowled", "out for just 19"],
+      "details": ["Uganda chased it in 5 balls!", "Juma Miyaji: 5 wickets for 7 runs"]
+    },
+    {
+      "type": "star",
+      "teams": ["NAM", "IRE"],
+      "big": "156",
+      "tag": "2ND ODI · NAMIBIA v IRELAND",
+      "color": "green",
+      "headline_size": 76,
+      "headline": ["Erasmus 156 as", "Namibia win by 31"],
+      "details": ["156 off 125 balls · Namibia 321/6", "Ireland 290 all out · Series 1-1"]
+    },
+    {
+      "type": "live",
+      "tag": "ON TODAY",
+      "matches": [["Pakistan v England", "ODI Tri-Series · Lahore"], ["India W v Zimbabwe W", "2nd ODI · Vadodara"]]
+    }
+  ]
+}
