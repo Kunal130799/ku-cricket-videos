@@ -1,0 +1,44 @@
+{
+  "date_label": "Monday · 26 October 2026",
+  "question": "Best knock: Shadab or Harmanpreet?",
+  "source": "Sources: Sky Sports, Outlook, Kawowo",
+  "stories": [
+    {
+      "type": "chase",
+      "teams": ["PAK", "ENG"],
+      "runs": 243,
+      "wickets": 9,
+      "sub": "Target 242 · 47.1 overs",
+      "tag": "ODI TRI-SERIES · PAK v ENG",
+      "color": "green",
+      "headline": ["Pakistan win by", "1 wicket!"],
+      "details": ["Shadab Khan 113* off 96 balls", "89-run last-wicket stand", "Duckett 105 in vain · PAK in final"]
+    },
+    {
+      "type": "bigtotal",
+      "teams": ["IND", "ZIM"],
+      "runs": 328,
+      "wickets": 6,
+      "tag": "WOMEN'S ODI · INDIA v ZIMBABWE",
+      "color": "blue",
+      "headline_size": 76,
+      "headline": ["India seal series", "with 121-run win"],
+      "details": ["Harmanpreet 126 · Deepti 106*", "Vaishnavi Sharma: 4 wickets", "India lead series 2-0"]
+    },
+    {
+      "type": "star",
+      "big": "1",
+      "teams": ["NGA", "UGA"],
+      "tag": "T20 WORLD CUP QUALIFIER",
+      "color": "gold",
+      "headline": ["Nigeria stun", "Uganda by 1 run"],
+      "details": ["Nigeria 148 · Uganda 147/9", "Riazat Ali Shah 60 in vain", "Nigeria top Qualifier C"]
+    },
+    {
+      "type": "live",
+      "label": "NEXT UP",
+      "tag": "TUESDAY 27 OCT",
+      "matches": [["NZ v India", "3rd T20I · Wellington"], ["SA v Australia", "3rd Test · Cape Town"]]
+    }
+  ]
+}

@@ -124,6 +124,7 @@ FLAGS = {
     "UGA": [(0, 0, 0), (252, 220, 4), (217, 0, 0)], "MOZ": [(0, 150, 57), (0, 0, 0), (252, 225, 0)],
     "NEP": [(220, 20, 60), (255, 255, 255), (0, 56, 147)], "UAE": [(0, 115, 47), (255, 255, 255), (0, 0, 0)],
     "USA": [(178, 34, 52), (255, 255, 255), (60, 59, 110)], "OMA": [(219, 22, 26), (255, 255, 255), (0, 138, 62)],
+    "NGA": [(0, 135, 81), (255, 255, 255), (0, 135, 81)],
 }
 GREY = [(90, 95, 115), (150, 155, 175), (90, 95, 115)]
 def flag(code): return FLAGS.get((code or "").upper(), GREY)
@@ -257,7 +258,7 @@ def frame(t):
     # progress bar
     d.rounded_rectangle([80, 140, W - 80, 148], radius=4, fill=(50, 55, 80))
     d.rounded_rectangle([80, 140, 80 + max(8, int((W - 160) * t / DUR)), 148], radius=4, fill=GOLD)
-    d.text((80, 1830), "Data: Sportradar", font=F(FR, 28), fill=(120, 130, 150))
+    d.text((80, 1830), DATA.get("source", "Data: Sportradar"), font=F(FR, 28), fill=(120, 130, 150))
     # fade to/from black between scenes
     if a < 1:
         ov = Image.new("RGB", (W, H), (0, 0, 0))
