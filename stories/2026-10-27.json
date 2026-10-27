@@ -1,0 +1,42 @@
+{
+  "date_label": "Tuesday · 27 October 2026",
+  "question": "Who impressed you most: Saransh, Musheer or Badoni?",
+  "source": "Sources: Wisden, UNI, Crex, Morning Star",
+  "stories": [
+    {
+      "type": "collapse",
+      "teams": ["MP", "BIH"],
+      "runs": 99,
+      "tag": "RANJI TROPHY · MP v BIHAR",
+      "color": "red",
+      "headline": ["Saransh Jain", "takes 7/40!"],
+      "details": ["Bihar bowled out for 99", "Madhya Pradesh 261/3 at stumps", "Saksham Purohit 113*"]
+    },
+    {
+      "type": "bigtotal",
+      "teams": ["MUM", "HAR"],
+      "runs": 290,
+      "wickets": 3,
+      "tag": "RANJI TROPHY · MUMBAI v HARYANA",
+      "color": "blue",
+      "headline_size": 76,
+      "headline": ["Twin tons put", "Mumbai on top"],
+      "details": ["Raghuvanshi 114 · Musheer 109", "Day 1 domination v Haryana", "Mumbai 290/3 at stumps"]
+    },
+    {
+      "type": "star",
+      "big": "106*",
+      "teams": ["DEL", "JHA"],
+      "tag": "RANJI TROPHY · DELHI v JHARKHAND",
+      "color": "gold",
+      "headline": ["Badoni hits", "back-to-back tons"],
+      "details": ["Unbeaten 106 in Ranchi", "217 in his previous game", "Delhi 309/5 at stumps"]
+    },
+    {
+      "type": "live",
+      "label": "ON TODAY",
+      "tag": "TUESDAY 27 OCT",
+      "matches": [["NZ v India", "3rd T20I · Wellington"], ["SA v Australia", "3rd Test · Newlands · 1-1"], ["Pakistan v Sri Lanka", "ODI Tri-Series · Lahore"]]
+    }
+  ]
+}
