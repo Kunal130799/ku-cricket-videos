@@ -1,0 +1,44 @@
+{
+  "date_label": "Wednesday · 28 October 2026",
+  "question": "Most destructive: Abhishek, Madushanka or Starc?",
+  "source": "Sources: ESPNcricinfo, Pakistan Today, Radio Pakistan",
+  "stories": [
+    {
+      "type": "chase",
+      "teams": ["IND", "NZ"],
+      "runs": 199,
+      "wickets": 4,
+      "sub": "13.2 overs · 40 balls to spare",
+      "tag": "3RD T20I · NZ v INDIA",
+      "color": "blue",
+      "headline_size": 76,
+      "headline": ["Abhishek smashes", "113 off 38 balls!"],
+      "details": ["India win by 6 wickets", "Sooryavanshi 45 off 19 balls", "India take series 3-0"]
+    },
+    {
+      "type": "collapse",
+      "teams": ["PAK", "SL"],
+      "runs": 110,
+      "tag": "ODI TRI-SERIES · PAK v SL",
+      "color": "red",
+      "headline_size": 76,
+      "headline": ["Madushanka 5/34", "wrecks Pakistan"],
+      "details": ["Pakistan 110 all out in 25.3 ov", "Sri Lanka win by 8 wickets", "Kamindu Mendis 62* · SL in final"]
+    },
+    {
+      "type": "star",
+      "big": "6/72",
+      "teams": ["SA", "AUS"],
+      "tag": "3RD TEST · SA v AUSTRALIA",
+      "color": "gold",
+      "headline": ["Starc rips", "through SA"],
+      "details": ["158/0 to 329 all out", "Ackerman 95 · Markram 78", "Series decider at Newlands"]
+    },
+    {
+      "type": "live",
+      "label": "ON TODAY",
+      "tag": "WEDNESDAY 28 OCT",
+      "matches": [["SA v Australia", "3rd Test · Day 2 · 1-1"], ["Bangladesh v West Indies", "1st Test · Dhaka"]]
+    }
+  ]
+}
