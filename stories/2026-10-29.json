@@ -1,0 +1,45 @@
+{
+  "date_label": "Thursday · 29 October 2026",
+  "question": "Pick one: Inglis, Shadman or Shafali?",
+  "source": "Sources: Sky Sports, The Tribune, UNI, Sports Tak, NewsBytes",
+  "stories": [
+    {
+      "type": "bigtotal",
+      "teams": ["AUS", "SA"],
+      "runs": 330,
+      "wickets": 4,
+      "tag": "3RD TEST · SA v AUSTRALIA",
+      "color": "gold",
+      "headline": ["Inglis & Carey", "turn the tide"],
+      "details": ["Inglis 85* · Carey 51*", "Unbroken 145 stand · lead by 1", "Renshaw 74 · Green 65"]
+    },
+    {
+      "type": "star",
+      "big": "99*",
+      "teams": ["BAN", "WI"],
+      "tag": "1ST TEST · BAN v WI",
+      "color": "red",
+      "headline_size": 76,
+      "headline": ["Bad light stops", "Shadman on 99"],
+      "details": ["Bangladesh 213/3 at stumps", "Hridoy 42 retired hurt", "Warrican 2/33"]
+    },
+    {
+      "type": "chase",
+      "teams": ["IND", "ZIM"],
+      "runs": 133,
+      "wickets": 2,
+      "sub": "17 overs · won by 8 wickets",
+      "tag": "3RD ODI · INDIA W v ZIM W",
+      "color": "blue",
+      "headline_size": 76,
+      "headline": ["India Women", "sweep series 3-0"],
+      "details": ["Shafali 51* off 26 balls", "Pratika Rawal 59*", "Vaishnavi five-for · ZIM 131 all out"]
+    },
+    {
+      "type": "live",
+      "label": "ON TODAY",
+      "tag": "THURSDAY 29 OCT",
+      "matches": [["SA v Australia", "3rd Test · Day 3 · 1-1"], ["Bangladesh v West Indies", "1st Test · Day 2 · Mirpur"]]
+    }
+  ]
+}
