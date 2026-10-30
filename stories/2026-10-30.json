@@ -1,0 +1,43 @@
+{
+  "date_label": "Friday · 30 October 2026",
+  "question": "Best knock: Inglis, Duckett or Shadman?",
+  "source": "Sources: ESPNcricinfo, ABC, cricket.com.au, TBS News, Prothom Alo",
+  "stories": [
+    {
+      "type": "star",
+      "big": "102",
+      "teams": ["AUS", "SA"],
+      "tag": "3RD TEST · SA v AUSTRALIA",
+      "color": "gold",
+      "headline": ["Inglis century", "at Newlands"],
+      "details": ["Australia 429 all out · lead 100", "Carey 80 · Starc 2/29", "SA 140/4 at stumps · lead by 40"]
+    },
+    {
+      "type": "bigtotal",
+      "teams": ["ENG", "SL"],
+      "runs": 386,
+      "wickets": 5,
+      "tag": "ODI TRI-SERIES · ENG v SL",
+      "color": "blue",
+      "headline_size": 76,
+      "headline": ["Duckett blasts", "167 in Lahore"],
+      "details": ["167 off 132 balls · 24 fours", "Sri Lanka 331 all out", "England win by 55 runs"]
+    },
+    {
+      "type": "star",
+      "big": "5/53",
+      "teams": ["WI", "BAN"],
+      "tag": "1ST TEST · BAN v WI",
+      "color": "red",
+      "headline_size": 76,
+      "headline": ["Warrican spins", "Bangladesh out"],
+      "details": ["Lost 7 for 59 · 272 all out", "Shadman 105 off 234 balls", "WI 134/4 · trail by 138"]
+    },
+    {
+      "type": "live",
+      "label": "ON TODAY",
+      "tag": "FRIDAY 30 OCT",
+      "matches": [["SA v Australia", "3rd Test · Day 4 · 1-1"], ["Bangladesh v West Indies", "1st Test · Day 3 · Mirpur"]]
+    }
+  ]
+}
