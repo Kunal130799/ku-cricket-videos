@@ -1,0 +1,44 @@
+{
+  "date_label": "Saturday · 31 October 2026",
+  "question": "Newlands decider: SA or Australia?",
+  "source": "Sources: ICC, cricket.com.au, ABC, UNI, Prothom Alo, Al Jazeera",
+  "stories": [
+    {
+      "type": "bigtotal",
+      "teams": ["NZ", "IND"],
+      "runs": 259,
+      "wickets": 7,
+      "tag": "4TH T20I · NZ v INDIA",
+      "color": "blue",
+      "headline_size": 76,
+      "headline": ["Phillips 107", "off 49 balls"],
+      "details": ["10 sixes · NZ win by 87 runs", "India 172/9 · Duffy 4/23", "India lead series 3-1"]
+    },
+    {
+      "type": "star",
+      "big": "288",
+      "teams": ["SA", "AUS"],
+      "tag": "3RD TEST · SA v AUSTRALIA",
+      "color": "gold",
+      "headline_size": 76,
+      "headline": ["Twin tons set", "up a decider"],
+      "details": ["Mulder 115 · Rickelton 101", "SA 387 all out · Starc 3/65", "Australia need 288 · series 1-1"]
+    },
+    {
+      "type": "star",
+      "big": "79/6",
+      "teams": ["BAN", "WI"],
+      "tag": "1ST TEST · BAN v WI",
+      "color": "red",
+      "headline_size": 76,
+      "headline": ["Chase sparks", "Bangladesh slide"],
+      "details": ["Bangladesh 79/6 · lead by 106", "WI 245 all out · Nayeem 4/33", "Chase 3 wickets · bad light"]
+    },
+    {
+      "type": "live",
+      "label": "ON TODAY",
+      "tag": "SATURDAY 31 OCT",
+      "matches": [["SA v Australia", "3rd Test · Day 5 · AUS need 288"], ["Pakistan v Sri Lanka", "Tri-series final · Lahore"], ["Bangladesh v West Indies", "1st Test · Day 4 · Mirpur"]]
+    }
+  ]
+}
