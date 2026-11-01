@@ -1,0 +1,45 @@
+{
+  "date_label": "Sunday · 1 November 2026",
+  "question": "Best show: Harmer, Fakhar or Chase?",
+  "source": "Sources: Sky Sports, ABC, ESPNcricinfo, Al Jazeera",
+  "stories": [
+    {
+      "type": "collapse",
+      "teams": ["SA", "AUS"],
+      "runs": 111,
+      "tag": "3RD TEST · SA v AUSTRALIA",
+      "color": "gold",
+      "headline_size": 76,
+      "headline": ["Harmer 6/16", "SA win series 2-1"],
+      "details": ["Harmer 10 wickets in the match", "SA win by 176 · AUS chased 288", "SA go No.1 in Test rankings"]
+    },
+    {
+      "type": "chase",
+      "teams": ["PAK", "SL"],
+      "runs": 331,
+      "wickets": 7,
+      "sub": "48.3 overs · won by 3 wickets",
+      "tag": "ODI TRI-SERIES FINAL",
+      "color": "green",
+      "headline_size": 76,
+      "headline": ["Fakhar 127 off 99", "wins Pakistan title"],
+      "details": ["Minhas 61 off 31 balls", "SL 325/8 · Kamindu Mendis 131", "Madushanka 3/63"]
+    },
+    {
+      "type": "star",
+      "big": "5/36",
+      "teams": ["BAN", "WI"],
+      "tag": "1ST TEST · BAN v WI",
+      "color": "red",
+      "headline_size": 76,
+      "headline": ["Chase 5/36", "King 81* seals it"],
+      "details": ["WI win by 8 wickets · lead 1-0", "Bangladesh 142 all out", "Warrican player of the match"]
+    },
+    {
+      "type": "live",
+      "label": "ON TODAY",
+      "tag": "SUNDAY 1 NOV",
+      "matches": [["New Zealand v India", "5th T20I · Hamilton · IND lead 3-1"]]
+    }
+  ]
+}
