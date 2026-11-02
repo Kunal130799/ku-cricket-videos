@@ -1,0 +1,39 @@
+{
+  "date_label": "Monday · 2 November 2026",
+  "question": "Biggest story: Phillips, Namibia or Noor?",
+  "source": "Sources: ESPNcricinfo, ICC, IANS, CricTracker",
+  "stories": [
+    {
+      "type": "chase",
+      "teams": ["NZ", "IND"],
+      "runs": 195,
+      "wickets": 3,
+      "sub": "18 overs · won by 7 wickets",
+      "tag": "5TH T20I · NZ v INDIA",
+      "color": "blue",
+      "headline_size": 76,
+      "headline": ["Seifert 93 off 50", "NZ win, IND take 3-2"],
+      "details": ["Phillips 65* · 341 series runs", "Record for a bilateral T20I series", "Milne 4/19 · India 191/8"]
+    },
+    {
+      "type": "collapse",
+      "teams": ["NAM", "IRE"],
+      "runs": 129,
+      "tag": "5TH ODI · NAMIBIA v IRELAND",
+      "color": "green",
+      "headline_size": 76,
+      "headline": ["Namibia make", "history: 3-2 win"],
+      "details": ["1st ODI series win over a Test side", "Namibia chase it down by 5 wkts", "Erasmus series star · 263 runs"]
+    },
+    {
+      "type": "star",
+      "big": "5/13",
+      "teams": ["AFG", "ZIM"],
+      "tag": "3RD T20I · AFG v ZIM",
+      "color": "red",
+      "headline_size": 76,
+      "headline": ["Noor career-best", "Afghanistan 3-0"],
+      "details": ["Zimbabwe 79 all out in 15 overs", "AFG win by 7 wickets", "Two-Test series starts 5 Nov"]
+    }
+  ]
+}
